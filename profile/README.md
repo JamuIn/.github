@@ -1,6 +1,6 @@
 # 🌿 JamuIN
 
-JamuIN is a unique marketplace dedicated to supporting the growth and sale of jamu products from UMKM (Micro, Small, and Medium Enterprises). The platform offers two main features: a marketplace for selling local jamu products and a Scan Image feature that provides users with personalized recommendations on how to make Jamu at home based on the ingredients scanned from an image.
+JamuIN is a unique marketplace dedicated to supporting the growth and sale of jamu products from UMKM (Micro, Small, and Medium Enterprises).
 
 ## Features
 
