@@ -21,4 +21,8 @@ JamuIN is a unique marketplace dedicated to supporting the growth and sale of ja
 | A210DSX3703 | Hakam Royhan Adiluhung          | Universitas Jenderal Soedirman  | Mobile Development |
 | A353DKY3863 | Tsani Aflah                     | Universitas Syiah Kuala         | Mobile Development |
 
+
+## Project Architecture
+![jamuin-architecture](https://github.com/JamuIn/.github/assets/53588747/081b43b6-3c14-45e2-87a4-37ff7558a419)
+
 ### &copy; Bangkit Academy 2023 - Product Capstone Project
